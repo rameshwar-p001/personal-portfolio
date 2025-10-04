@@ -47,18 +47,6 @@ function Home() {
         title="Hi, I'm Rameshwar Digambar Patil"
         subtitle="App Developer & Computer Science Student"
         description="I'm a Computer Science Engineering student passionate about app development and modern technologies. Currently working as Content Creator & Social Media Manager at Evantr while building innovative mobile applications."
-        
-        secondaryButton={{
-          text: "Download CV",
-          onClick: () => {
-            const link = document.createElement('a');
-            link.href = '/src/Certificate/rdpcv.pdf';
-            link.download = 'Rameshwar_Patil_CV.pdf';
-            document.body.appendChild(link);
-            link.click();
-            document.body.removeChild(link);
-          }
-        }}
         backgroundVariant="gradient1"
       />
 
