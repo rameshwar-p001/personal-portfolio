@@ -38,17 +38,6 @@ function About() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         {/* Header Section */}
         <div className="text-center mb-16">
-          <div className="relative inline-block mb-8">
-            <div className="w-48 h-48 mx-auto relative">
-              <div className="absolute inset-0 bg-gradient-to-r from-blue-400 to-purple-500 rounded-full animate-pulse opacity-75"></div>
-              <img
-                src="/src/pages/Screenshot 2025-08-15 171212.png"
-                alt="Rameshwar Patil"
-                className="w-44 h-44 rounded-full border-4 border-white shadow-2xl object-cover absolute top-2 left-2 hover:shadow-blue-500/50 transition-all duration-500"
-              />
-            </div>
-          </div>
-          
           <h1 className="text-5xl font-bold text-gray-900 mb-4">
             About <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">Me</span>
           </h1>
