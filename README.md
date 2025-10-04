@@ -4,7 +4,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 
 ## 🚀 Live Demo
 
-You can view the live version of my portfolio here: **[https://your-portfolio-link.com](https://your-portfolio-link.com)**
+You can view the live version of my portfolio here: **[[https://your-portfolio-link.com](https://personal-portfolio-rdp.netlify.app/)]([https://your-portfolio-link.com](https://personal-portfolio-rdp.netlify.app/))**
 
 ## ✨ Features
 
